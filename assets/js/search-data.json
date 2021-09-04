@@ -1,0 +1,38 @@
+{"0": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# Open Japanese {{ site.description }} ",
+    "url": "https://openjapanese.io/",
+    "relUrl": "/"
+  },"1": {
+    "doc": "て form",
+    "title": "て Form",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "https://openjapanese.io/te-form/#%E3%81%A6-form",
+    "relUrl": "/te-form/#て-form"
+  },"2": {
+    "doc": "て form",
+    "title": "て form",
+    "content": " ",
+    "url": "https://openjapanese.io/te-form/",
+    "relUrl": "/te-form/"
+  },"3": {
+    "doc": "Apps",
+    "title": "Apps",
+    "content": "The applications below have been developed to help with the Japanese Language Learning Journey, some of the applications are web based and others have mobile applications too. ",
+    "url": "https://openjapanese.io/apps",
+    "relUrl": "/apps"
+  },"4": {
+    "doc": "Kanji Study",
+    "title": "Kanji Study - A Helpful SRS App for Remembering the Kanji",
+    "content": "WIP . ",
+    "url": "https://openjapanese.io/apps/kanji-study/#kanji-study---a-helpful-srs-app-for-remembering-the-kanji",
+    "relUrl": "/apps/kanji-study/#kanji-study---a-helpful-srs-app-for-remembering-the-kanji"
+  },"5": {
+    "doc": "Kanji Study",
+    "title": "Kanji Study",
+    "content": " ",
+    "url": "https://openjapanese.io/apps/kanji-study/",
+    "relUrl": "/apps/kanji-study/"
+  }
+}
