@@ -1,0 +1,20 @@
+prose:
+  siteurl: 'http://openjapanese.io'
+  media: 'assets'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /.github
+    - Gemfile
+    - .gitignore
+    - 404.html
+    - README.md
+    - Gemfile.lock
+  metadata:
+    _grammar:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
